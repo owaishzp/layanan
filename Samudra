@@ -1,0 +1,47 @@
+[
+  {
+    "titel": "Overnight Special Service.",
+    "deskripsi": "Layanan Overnight Special Service (OSS) adalah layanan pengiriman barang dengan lead-time 1 Hari Kerja.",
+    "singkatan": "OSS"
+  },
+  {
+    "titel": "Dangerous Goods Service.",
+    "deskripsi": "Layanan DG adalah aktivitas Pengiriman Barang Berbahaya berupa bahan atau zat yang berpotensi dapat membahayakan secara nyata terhadap kesehatan, keselamatan atau harta milik apabila diangkut dengan pesawat udara.",
+    "singkatan": "DG"
+  },
+  {
+    "titel": "Reguler Service.",
+    "deskripsi": "Reguler Service (REG) adalah layanan pengiriman barang dengan biaya ekonomis dengan waktu pengiriman selama 3 hari.",
+    "singkatan": "REG"
+  },
+  {
+    "title": "Six Hours Delivery",
+    "deskripsi": "Six Hours Delivery (SIX) merupakan layanan dengan waktu pengiriman hanya 6 jam sampai ditujuan.",
+    "singkatan": "SIX"
+  },
+  {
+    "titel": "Cargo Service",
+    "deskripsi": "CARGO Service adalah layanan pengiriman barang berbiaya ekonomis dengan kuantitas minimal 10Kg.",
+    "singkatan": "CARGO"
+  },
+  {
+    "titel": "Cash On Delivery",
+    "deskripsi": "Cash on Delivery (COD) adalah layanan pengiriman barang dengan biaya tagihan ditujukan untuk penerima.",
+    "singkatan": "CODE"
+  },
+  {
+    "titel": "Cargo Rumah Duka",
+    "deskripsi": "Cargo Rumah Duka (CRD) adalah sebuah layanan yang dikhususkan untuk pengiriman Jenazah.",
+    "singkatan": "CRD"
+  },
+  {
+    "titel": "Charter Grandmax",
+    "deskripsi": "Charter Grandmax ( GMAX ) adalah layanan pengiriman express dengan menggunakan armada penyewaan khusus Grandmax                   \n\nDengan Syarat Pengiriman :\n\nTujuan        : Seluruh Wilayah Pulau Jawa .\nMax Kg       : 400kg\nLead Time  : 1 Hari.",
+    "singkatan": "GMAX"
+  },
+  {
+    "titel": "Charter Truck CDD",
+    "deskripsi": "Charter Truck ( TRUCK ) adalah layanan pengiriman express menggunakan Truck CDD dengan bobot kapasitas 5 Ton                 \n\nDengan Syarat Pengiriman :\n\nTujuan        : Seluruh Wilayah Pulau Jawa, Bali dan Sumatera\nMax Kg       : 5 Ton\nLead Time  : 1 Hari untuk wilayah Pulau Jawa dan 1-2 Hari untuk wilayah Pulau Bali dan Sumatera",
+    "singkatan": "TRUCK"
+  }
+]
